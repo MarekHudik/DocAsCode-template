@@ -1,0 +1,6 @@
+# pandoc-default-html5.html
+- https://github.com/jgm/pandoc-templates/blob/master/default.html5
+
+# github-markdown.css
+- https://github.com/sindresorhus/github-markdown-css
+- demo: https://sindresorhus.com/github-markdown-css/
