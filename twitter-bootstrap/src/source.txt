@@ -4,3 +4,6 @@
 # twitter bootstrap
 - https://getbootstrap.com/docs/4.1/examples/grid/
 - https://getbootstrap.com/dist/css/bootstrap.min.css
+
+# webpack
+- https://github.com/jantimon/html-webpack-plugin/blob/master/examples/html-loader/webpack.config.js
